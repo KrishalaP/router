@@ -9,7 +9,7 @@ const router = createRouter({
   defaultPreload: 'intent',
 })
 
-// Register things for typesafety Hello I am krishala poudel
+// Register things for typesafety Hello I am krishala poudel i libe 
 declare module '@tanstack/react-router' {
   interface Register {
     router: typeof router
