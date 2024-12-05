@@ -9,4 +9,5 @@ function RouteComponent() {
   const {blogId} = Route.useParams()
   console.log(blogId)
   return <div>Hello "/blog/$blogId/"!</div>
+  // kashak
 }
